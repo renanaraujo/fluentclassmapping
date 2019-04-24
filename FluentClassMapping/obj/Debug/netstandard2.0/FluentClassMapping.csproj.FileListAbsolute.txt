@@ -1,0 +1,9 @@
+E:\DevProjects\FluentClassMapping\FluentClassMapping\bin\Debug\netstandard2.0\FluentClassMapping.deps.json
+E:\DevProjects\FluentClassMapping\FluentClassMapping\bin\Debug\netstandard2.0\FluentClassMapping.dll
+E:\DevProjects\FluentClassMapping\FluentClassMapping\bin\Debug\netstandard2.0\FluentClassMapping.pdb
+E:\DevProjects\FluentClassMapping\FluentClassMapping\obj\Debug\netstandard2.0\FluentClassMapping.csprojAssemblyReference.cache
+E:\DevProjects\FluentClassMapping\FluentClassMapping\obj\Debug\netstandard2.0\FluentClassMapping.csproj.CoreCompileInputs.cache
+E:\DevProjects\FluentClassMapping\FluentClassMapping\obj\Debug\netstandard2.0\FluentClassMapping.AssemblyInfoInputs.cache
+E:\DevProjects\FluentClassMapping\FluentClassMapping\obj\Debug\netstandard2.0\FluentClassMapping.AssemblyInfo.cs
+E:\DevProjects\FluentClassMapping\FluentClassMapping\obj\Debug\netstandard2.0\FluentClassMapping.dll
+E:\DevProjects\FluentClassMapping\FluentClassMapping\obj\Debug\netstandard2.0\FluentClassMapping.pdb

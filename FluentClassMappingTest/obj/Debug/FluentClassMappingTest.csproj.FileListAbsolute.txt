@@ -1,0 +1,16 @@
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\bin\Debug\FluentClassMappingTest.dll
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\bin\Debug\FluentClassMappingTest.pdb
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\bin\Debug\FluentClassMapping.dll
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\bin\Debug\FluentClassMapping.pdb
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\obj\Debug\FluentClassMappingTest.csprojAssemblyReference.cache
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\obj\Debug\FluentClassMappingTest.csproj.CoreCompileInputs.cache
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\obj\Debug\FluentClassMappingTest.csproj.CopyComplete
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\obj\Debug\FluentClassMappingTest.dll
+E:\DevProjects\FluentClassMapping\FluentClassMappingTest\obj\Debug\FluentClassMappingTest.pdb
